@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/peramalan-harga-beras/static/css/main.9be66b7d.chunk.css",
+    "main.js": "/peramalan-harga-beras/static/js/main.29b3f9ff.chunk.js",
+    "main.js.map": "/peramalan-harga-beras/static/js/main.29b3f9ff.chunk.js.map",
+    "runtime-main.js": "/peramalan-harga-beras/static/js/runtime-main.ecd752d5.js",
+    "runtime-main.js.map": "/peramalan-harga-beras/static/js/runtime-main.ecd752d5.js.map",
+    "static/js/2.8754c4aa.chunk.js": "/peramalan-harga-beras/static/js/2.8754c4aa.chunk.js",
+    "static/js/2.8754c4aa.chunk.js.map": "/peramalan-harga-beras/static/js/2.8754c4aa.chunk.js.map",
+    "index.html": "/peramalan-harga-beras/index.html",
+    "static/css/main.9be66b7d.chunk.css.map": "/peramalan-harga-beras/static/css/main.9be66b7d.chunk.css.map",
+    "static/js/2.8754c4aa.chunk.js.LICENSE.txt": "/peramalan-harga-beras/static/js/2.8754c4aa.chunk.js.LICENSE.txt",
+    "static/media/UISI.c3b741e7.png": "/peramalan-harga-beras/static/media/UISI.c3b741e7.png",
+    "static/media/if.5e48c96c.png": "/peramalan-harga-beras/static/media/if.5e48c96c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd752d5.js",
+    "static/js/2.8754c4aa.chunk.js",
+    "static/css/main.9be66b7d.chunk.css",
+    "static/js/main.29b3f9ff.chunk.js"
+  ]
+}
