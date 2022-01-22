@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://yogiadamf.githu.io/peramalan-harga-beras",
+  "homepage": "https://yogiadamf.github.io/peramalan-harga-beras",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
